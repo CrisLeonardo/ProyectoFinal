@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProyectoFinalProgra
+build_property.ProjectDir = C:\Users\minec\Desktop\UMG\3er Semestre\Progra1\ProyectFinal\ProyectoFinalProgra\
+
+[C:/Users/minec/Desktop/UMG/3er Semestre/Progra1/ProyectFinal/ProyectoFinalProgra/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinalProgra.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/minec/Desktop/UMG/3er Semestre/Progra1/ProyectFinal/ProyectoFinalProgra/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinalProgra.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/minec/Desktop/UMG/3er Semestre/Progra1/ProyectFinal/ProyectoFinalProgra/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinalProgra.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/minec/Desktop/UMG/3er Semestre/Progra1/ProyectFinal/ProyectoFinalProgra/PaginasVehiculos/CuadPag.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinalProgra.PaginasVehiculos.CuadPag.xaml
+build_metadata.AdditionalFiles.TargetPath = PaginasVehiculos\CuadPag.xaml
+build_metadata.AdditionalFiles.RelativePath = PaginasVehiculos\CuadPag.xaml
+
+[C:/Users/minec/Desktop/UMG/3er Semestre/Progra1/ProyectFinal/ProyectoFinalProgra/PaginasVehiculos/ModifcarPagina.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinalProgra.PaginasVehiculos.ModifcarPagina.xaml
+build_metadata.AdditionalFiles.TargetPath = PaginasVehiculos\ModifcarPagina.xaml
+build_metadata.AdditionalFiles.RelativePath = PaginasVehiculos\ModifcarPagina.xaml
+
+[C:/Users/minec/Desktop/UMG/3er Semestre/Progra1/ProyectFinal/ProyectoFinalProgra/PaginasVehiculos/PickUpPag.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinalProgra.PaginasVehiculos.PickUpPag.xaml
+build_metadata.AdditionalFiles.TargetPath = PaginasVehiculos\PickUpPag.xaml
+build_metadata.AdditionalFiles.RelativePath = PaginasVehiculos\PickUpPag.xaml
+
+[C:/Users/minec/Desktop/UMG/3er Semestre/Progra1/ProyectFinal/ProyectoFinalProgra/PaginasVehiculos/SedanPag.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinalProgra.PaginasVehiculos.SedanPag.xaml
+build_metadata.AdditionalFiles.TargetPath = PaginasVehiculos\SedanPag.xaml
+build_metadata.AdditionalFiles.RelativePath = PaginasVehiculos\SedanPag.xaml
+
+[C:/Users/minec/Desktop/UMG/3er Semestre/Progra1/ProyectFinal/ProyectoFinalProgra/PaginasVehiculos/SUVPag.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinalProgra.PaginasVehiculos.SUVPag.xaml
+build_metadata.AdditionalFiles.TargetPath = PaginasVehiculos\SUVPag.xaml
+build_metadata.AdditionalFiles.RelativePath = PaginasVehiculos\SUVPag.xaml
+
+[C:/Users/minec/Desktop/UMG/3er Semestre/Progra1/ProyectFinal/ProyectoFinalProgra/PaginasVehiculos/Vehiculos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinalProgra.PaginasVehiculos.Vehiculos.xaml
+build_metadata.AdditionalFiles.TargetPath = PaginasVehiculos\Vehiculos.xaml
+build_metadata.AdditionalFiles.RelativePath = PaginasVehiculos\Vehiculos.xaml
+
+[C:/Users/minec/Desktop/UMG/3er Semestre/Progra1/ProyectFinal/ProyectoFinalProgra/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinalProgra.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/minec/Desktop/UMG/3er Semestre/Progra1/ProyectFinal/ProyectoFinalProgra/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProyectoFinalProgra.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

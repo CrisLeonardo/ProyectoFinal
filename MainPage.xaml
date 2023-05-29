@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinalProgra.MainPage"
+    BackgroundColor="RosyBrown">
+
+    <ScrollView>
+        <VerticalStackLayout
+             Spacing="50"
+            VerticalOptions="CenterAndExpand">
+
+
+
+
+            <Label 
+                Text=" Selecciona una de las siguientes opciones"
+                SemanticProperties.HeadingLevel="Level4"
+                FontSize="24"
+                HorizontalOptions="Center" />
+
+
+
+
+
+
+            <Button Text="Vehiculos" Clicked="OnButtonClicked" HorizontalOptions="CenterAndExpand" />
+
+            <Button Text="Cerrar aplicación" Clicked="OnCerrarClicked" HorizontalOptions="CenterAndExpand" />
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+
+</ContentPage>
